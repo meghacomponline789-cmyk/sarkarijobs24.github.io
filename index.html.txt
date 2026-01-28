@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sarkari Jobs24 – Latest Govt Jobs</title>
+<meta name="description" content="Latest Sarkari Jobs, Admit Card, Results, Gujarat & India Govt Jobs">
+<meta name="keywords" content="Sarkari Jobs, Govt Jobs Gujarat, Sarkari Result">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Sarkari Jobs24</h1>
+<p>India No.1 Government Job Information Portal</p>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="jobs.html">Latest Jobs</a>
+<a href="admitcard.html">Admit Card</a>
+<a href="result.html">Result</a>
+</nav>
+
+<section class="box">
+<h2>🔥 Latest Government Jobs</h2>
+<ul>
+<li>Gujarat Police Bharti 2026</li>
+<li>SSC GD Constable Recruitment</li>
+<li>Railway Group D Vacancy</li>
+</ul>
+</section>
+
+<footer>
+<p>© 2026 SarkariJobs24</p>
+</footer>
+
+</body>
+</html>
